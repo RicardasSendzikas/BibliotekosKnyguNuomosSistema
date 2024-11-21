@@ -1,0 +1,6 @@
+@KnyguNuoma_HostAddress = http://localhost:5069
+
+GET {{KnyguNuoma_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
